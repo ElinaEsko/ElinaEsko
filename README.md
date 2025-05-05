@@ -1,4 +1,8 @@
-## Hi there 👋
+## Elina Esko
+---
+*My contact: elinaesko08@gmail.com*
+---
+
 
 <!--
 **ElinaEsko/ElinaEsko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
