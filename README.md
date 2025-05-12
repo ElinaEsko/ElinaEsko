@@ -5,9 +5,7 @@
 ---
 *My contact: elinaesko08@gmail.com*
 ---
-
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiElinaEskoanuraghazra&show_icons=true&theme=gruvbox)
 <!--
 **ElinaEsko/ElinaEsko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
