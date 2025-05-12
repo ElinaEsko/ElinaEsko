@@ -1,9 +1,20 @@
 
-![Pink and White Modern Cute Name Tag](https://github.com/user-attachments/assets/62f1f62b-cdb5-428b-bc07-3a872b76d729)
+![Pink and Beige Checkered Groovy Floral Retro Flower Name Tag](https://github.com/user-attachments/assets/400b3478-d46b-453c-86f0-c8c734ac4e21)
 
 ## Elina Esko
 ---
-*My contact: elinaesko08@gmail.com*
+Student at Gradia, learning programming. I speak English and Finnish fluently, and only a small amount of Swedish, enough to have a passing converstation. 
+
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+elinaesko08@gmail.com
+
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+star_k1tten_
+
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
++358 045 6430030
+
 ---
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
