@@ -1,7 +1,11 @@
+
+![Pink and White Modern Cute Name Tag](https://github.com/user-attachments/assets/62f1f62b-cdb5-428b-bc07-3a872b76d729)
+
 ## Elina Esko
 ---
 *My contact: elinaesko08@gmail.com*
 ---
+
 
 
 <!--
